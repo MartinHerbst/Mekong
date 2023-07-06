@@ -1,0 +1,18 @@
+Vypracování zadání nemá přesně definovaný čas.
+Zadání je nakreslené v aplikaci Adobe XD 
+https://xd.adobe.com/view/54ef6a19-1ee0-4165-ba71-e077c2ebea7c-01bc/specs/
+
+Po vypracování zadání:
+1) je potřeba nasdílet výsledek na git repozitář nebo zaslat zip súbor
+2) napsat čas realizace - napočítá sa příprava projektu (export obrázků apod.)
+
+Info ke kódování:
+1) návrh má být responzívní ✅
+2) sociální ikony - třetí ikona v návrhu znázorňuje, jak sa mají sociální ikony chovat při hover efektu ✅
+3) vymyslet pěkný hover efekt pro oranžový button ✅
+
+
+Body navíc za (není to však povinné):
+1) Při reload stránky se objeví elementy skrz nějaký efekt/animaci (například posun ze strany, ...) ✅
+2) Komponenta s třemi obrázky bude fungovat jako slick, při kliknutí na button "See more photos",
+ případně na šipku, se obrázky posunou z prava do leva o jeden obrázek. ✅
